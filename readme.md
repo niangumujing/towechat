@@ -18,7 +18,9 @@ https://bailian.console.aliyun.com/?tab=model#/api-key
 创建一个apikey 填写
 
 使用jdk17 运行towechat-1.0-SNAPSHOT.jar文件
-java -jar towechat-1.0-SNAPSHOT.jar --spring.config.name=application
+``java -jar towechat-1.0-SNAPSHOT.jar --spring.config.name=application
+``
+application.yml需与towechat-1.0-SNAPSHOT.jar 文件在同一目录下
 
 在微信公众平台填写服务器配置
 ![img_2.png](images/img_2.png)
