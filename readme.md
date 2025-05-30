@@ -7,11 +7,11 @@ https://zhuanlan.zhihu.com/p/25140448064
 
 2.获取配置，只需要自己填写的token
 
-![img.png](img.png)
+![img.png](images/img.png)
 
 3.复制resources目录下application.yml
 
-![img_1.png](img_1.png)
+![img_1.png](images/img_1.png)
 
 阿里灵积链接：
 https://bailian.console.aliyun.com/?tab=model#/api-key
@@ -21,7 +21,7 @@ https://bailian.console.aliyun.com/?tab=model#/api-key
 java -jar towechat-1.0-SNAPSHOT.jar --spring.config.name=application
 
 在微信公众平台填写服务器配置
-![img_2.png](img_2.png)
+![img_2.png](images/img_2.png)
 url填写：
 http：//服务器ip地址:80/wx
 个人电脑可用内网穿透
