@@ -34,3 +34,6 @@ docker部署
 ```
 docker run --name towechat -p 8080:8080 -e TO_WECHAT_APP_TOKEN=token -e TO_WECHAT_ALIYUN_API_KEY=阿里灵积平台apikey -e TO_WECHAT_ALIYUN_API_SECRET=阿里灵积平台apisecret -d  crpi-3ehjzzneqvumxsnz.cn-hangzhou.personal.cr.aliyuncs.com/naingumujing/towechat
 ```
+
+效果：
+![img.png](images/img_3.png)
